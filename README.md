@@ -79,3 +79,8 @@ Nest is [MIT licensed](LICENSE).
 
 ** TypeORM Setup **
 `yarn add typeorm @nestjs/typeorm pg`
+
+`yarn add bcrypt`
+
+`yarn add @nestjs/jwt @nestjs/passport passport passport-jwt`
+`yarn add @types/passport-jwt`
