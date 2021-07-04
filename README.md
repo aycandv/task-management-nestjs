@@ -74,13 +74,20 @@ Nest is [MIT licensed](LICENSE).
 
 ## Notes
 
-** class-vadilator **
+**class-vadilator**
 `yarn add class-validator class-transformer`
 
-** TypeORM Setup **
+**TypeORM Setup**
 `yarn add typeorm @nestjs/typeorm pg`
 
 `yarn add bcrypt`
 
 `yarn add @nestjs/jwt @nestjs/passport passport passport-jwt`
 `yarn add @types/passport-jwt`
+
+**Configuration**
+`yarn add @nestjs/config`
+
+**Config Schema Validation**
+`yarn add @hapi/joi`
+`yarn add -D @types/hapi__joi`
